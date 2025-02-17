@@ -1,6 +1,6 @@
 extends CharacterBody2D
 
-var speed = 40
+var speed = 70
 # var run_speed = 1
 var hp = 10
 # var stamina = 100
